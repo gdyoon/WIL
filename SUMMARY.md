@@ -8,5 +8,5 @@
 
 ## 2023-11-30
 
-* [페이지](2023-11-30/undefined.md)
+* [Song Ji Yeon](2023-11-30/song-ji-yeon.md)
 * [Page 1](2023-11-30/page-1.md)
