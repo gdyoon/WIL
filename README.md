@@ -1,2 +1,2 @@
-# WIL
-Weekly I Learned
+# README.md
+
