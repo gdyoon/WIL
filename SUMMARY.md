@@ -9,4 +9,4 @@
 ## 2023-11-30
 
 * [Song Ji Yeon](2023-11-30/song-ji-yeon.md)
-* [Page 1](2023-11-30/page-1.md)
+* [😎 Noh ji sun](2023-11-30/noh-ji-sun.md)
