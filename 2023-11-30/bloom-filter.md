@@ -1,6 +1,6 @@
 # Bloom Filter
 
-음 이 필터에 대해서는… 어디서 문득 들어봤을 거에요 (?)
+<mark style="color:orange;">알아두면 쓸데있는 자료구조 시리즈 (1)</mark>
 
 &#x20;
 
