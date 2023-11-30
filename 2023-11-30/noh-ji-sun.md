@@ -26,8 +26,10 @@ description: 이펙티브 코틀린 정리
 ## 5장 예외를 활용해 코드에 제한을 걸어라
 
 * require : 아규먼트 제한 (가장 앞부분 위치) 오류 시 IllegalAgumentExecption
-* check : 상태와 고나련되 동작을 제한 오류 시 IllegaStatementException
+* check : 상태와 관련된 동작을 제한 오류 시 IllegaStatementException
 * return 또는 throw 와 함께 사용되는 Elvis 연산자
+
+
 
 똑같은 if문이 아닌 소스 코드만 봐도 내용을 확인 할 수 있다.
 
