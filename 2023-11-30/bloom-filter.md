@@ -34,3 +34,10 @@
 **실제 적용해본다면?**
 
 * 사용자를 생성할 때 이메일 중복 체크
+
+
+
+아래 그림을 통해 알아보자 🔭
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
