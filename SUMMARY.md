@@ -10,7 +10,7 @@
 
 * [Bloom Filter](2023-11-30/bloom-filter.md)
 * [Song Ji Yeon](2023-11-30/song-ji-yeon.md)
-* [😎 Noh ji sun](2023-11-30/noh-ji-sun.md)
+* [😎 이펙티브 코틀린 정리](2023-11-30/undefined.md)
 
 ## 2023-12-07
 
